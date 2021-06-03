@@ -1,8 +1,8 @@
-import Counter from './counter'
+import CounterPage from './counter'
 function App(){
     return(
         <>
-    <Counter/>
+    <CounterPage/>
         </>
     )
 }
